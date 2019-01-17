@@ -12,3 +12,4 @@
   2. *Mention why their problem is happening*  And a remember to say why your solution should work
   
 ### Free Culture Chapter 3
+  The chapter demonstrates the importance of open source software.  If the software designed in the search engine was open source, then Jesse would have been protected and never would have been able to be accused of piracy.  Seeing as Jesse did not modify the search engine to return music results, he was not at fault.  Proper licensing would have protected him from what had transpired.  The big takeaway from the chapter is licensing.  Always make sure that what you're using has licensing that would prevent you from getting in trouble, especially if you plan to let your software be used a broader public.
