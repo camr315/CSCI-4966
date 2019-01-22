@@ -1,3 +1,5 @@
+## Part 1
+![](/images/gitk.PNG)
 
 ## Part 2
 https://github.com/camr315/Spoon-Knife
