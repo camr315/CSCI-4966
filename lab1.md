@@ -16,7 +16,7 @@
 
 
 ## Regex
-### First tutorial problems (2)
+### First Tutorial Problems (2)
 ![](/images/Prob1.PNG)
 ![](/images/Prob2.PNG)
 ![](/images/Prob3.PNG)
@@ -25,3 +25,6 @@
 ![](/images/Prob6.PNG)
 ![](/images/Prob7.PNG)
 ![](/images/Prob8.PNG)
+
+### Tutorial + Beginner Problems
+![](/images/AllT4B.PNG)
