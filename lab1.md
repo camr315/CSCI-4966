@@ -17,7 +17,7 @@
 
 ## Regex
 ### First tutorial problems (2)
-![](/images/Prob1.png)
+[](/images/Prob1.png)
 ![](/images/Prob2.png)
 ![](/images/Prob3.png)
 ![](/images/Prob4.png)
