@@ -64,7 +64,7 @@ n-develop
 Differences with Gitstats: less lines of code, more authors
 
 Gource Screenshot:
-![](MxMgource.PNG)
+![](/images/MxMgource.PNG)
 
 ### Observatory Server
 
@@ -126,7 +126,7 @@ Differences with GitStats:
   - More contributors at 13 instead of 10 
   
 Gource Screentshot:
-![](ObserClient.png)
+![](/images/ObserClient.png)
 
 
 ### Open Source Coding Community
