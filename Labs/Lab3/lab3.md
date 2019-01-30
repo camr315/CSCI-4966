@@ -108,6 +108,9 @@ Differences with GitStats:
 -Less lines of code at 33680 instead of 33839
 -More contributors at 60 instead of 42
 
+Gource Picture:
+![](/images/ObserServer.png)
+
 
 ### Observatory Client
 Contributors: 10
@@ -160,4 +163,5 @@ Gource Video: https://youtu.be/xn01Tphknjc
 
 ## Part 2
 
-
+https://github.com/camr315/CSCI-4966/blob/master/Labs/Lab3/markdown.py
+https://github.com/camr315/CSCI-4966/blob/master/Labs/Lab3/test_markdown_unittest.py
