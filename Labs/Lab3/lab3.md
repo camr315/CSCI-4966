@@ -1,5 +1,7 @@
 # Lab 3
 ## Part 0
+![](/images/LaTeX_Eq.PNG)
+![](/images/LaTeX_Matrix.PNG)
 
 ## Part 1
 
