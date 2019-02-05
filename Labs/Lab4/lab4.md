@@ -19,10 +19,10 @@
   https://github.com/Max-Escaler/openSourceLicenseLab
   
 ### Choosing a Project
-  I would use the MIT License for the project so that anyone who finds or uses it has free range to edit and change the code to best suit their needs and purposes, allowing for greater and easier change to the code for those with needs other than the project currently allows for.
+  The project I choose will likely be a project to improve a current functionality or create a new functionality for something that either doesn't exist or has not been suitably created in another project.  The project will be free to use.  I want users to have free range of the source code on the project so that they can make their own improvements.  I would use the MIT License for the project so that users have the access that I want them to have. This allows for greater and easier changing of the code for those with needs other than the project may allow for upon completion.
 
 ### Project Table
-| Website                                          | License Present | Licesne                                                                  |
+| Website                                          | License Present | License                                                                  |
 |--------------------------------------------------|-----------------|--------------------------------------------------------------------------|
 | https://github.com/smaltby/canary                | Yes             | MIT https://tldrlegal.com/license/mit-license                            |
 | https://github.com/burtonwilliamt/carlogicapi    | Yes             | Apache-2.0 https://tldrlegal.com/license/apache-license-2.0-(apache-2.0) |
