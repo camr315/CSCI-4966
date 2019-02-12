@@ -39,12 +39,12 @@ As NightScout is a collection of projects/respoitories, I used their cgm-remote-
 | Language               |      1      | Primarily JavaScript, a language I know but don't consider preferred.                                                                    |
 | Level of Activity      |      2      | Still active, and has been every quarter for at least the last few years                                                                 |
 | Number of contributors |      2      | 123 contributors                                                                                                                         |
-| Project Size           |      1      | Not sure how large the project should be to be acceptable, but is well over 10,000 lines                                                 |
+| Project Size           |      2      | Not sure how large the project should be to be acceptable, but is well over 10,000 lines, and has many different projects.              |
 | Issue Tracker          |      2      | Last issue updated 12 hours ago when making this table.  Currently 167 open and 387 closed.                                              |
 | New Contributor        |      1      | Some instructions, but not many easy to find about being a new contributor, mostly find things about installation and using the project. |
 | Community Norms        |      1      | Norms about coding practice hard to find, but everything seems to be in order.  A bit of a mess, but in order.                           |
 | User Base              |      2      | Active user base who uses the project and its derivatives to fit their needs.                                                            |
-| Total Score            |    14/18    | Strong, active project. A lot of users and good real world application that improves the quality of life of people everyday.             |
+| Total Score            |    15/18    | Strong, active project. A lot of users and good real world application that improves the quality of life of people everyday.             |
 
 ## Part 2
 
