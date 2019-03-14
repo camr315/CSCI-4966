@@ -25,3 +25,20 @@ Shortest path between cold and warm is
 cold, cord, word, worm, warm
 Shortest path between hate and love is
 hate, have, hove, love
+
+### 5 Letter Unordered Link to Code
+https://github.com/camr315/CSCI-4966/blob/master/Labs/Lab6/5letter.py
+
+### 5 Letter Unordered Pair Results
+Loaded words_dat.txt containing 5757 five-letter English words.
+Two words are connected if they differ in one letter.
+Graph has 5757 nodes with 27055 edges
+563 connected components
+Shortest path between chaos and order is
+chaos, cohos, chose, hoses, shoed, dosed, doser, order
+Shortest path between nodes and graph is
+None
+Shortest path between moron and smart is
+moron, morns, moors, morts, trots, taros, tarts, smart
+Shortest path between pound and marks is
+pound, dunno, sound, snood, noons, moons, mason, somas, amass, masks, marks
