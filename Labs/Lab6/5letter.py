@@ -30,6 +30,7 @@ import gzip
 from string import ascii_lowercase as lowercase
 
 import networkx as nx
+from collections import Counter
 
 #-------------------------------------------------------------------
 #   The Words/Ladder graph of Section 1.1
@@ -41,11 +42,18 @@ def generate_graph(words):
     lookup = dict((c, lowercase.index(c)) for c in lowercase)
 
     def edit_distance_one(word):
-        for i in range(len(word)):
-            left, c, right = word[0:i], word[i], word[i + 1:]
-            j = lookup[c]  # lowercase.index(c)
+        co1 = Counter(word)
+        for l in lowercase:
+            for i in range(len(co1)):
+                co2 = Counter(word)
+                co2[l] += 1
+                co2[co1.keys()[i]] -= 1
+                for wordo in words:
+                    if co2 == Counter(wordo):
+                        yield wordo
+            '''j = lookup[c]  # lowercase.index(c)
             for cc in lowercase[j + 1:]:
-                yield left + cc + right
+                yield left + cc + right'''
     candgen = ((word, cand) for word in sorted(words)
                for cand in edit_distance_one(word) if cand in words)
     G.add_nodes_from(words)
