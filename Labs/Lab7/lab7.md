@@ -1,7 +1,7 @@
 # Lab7
 
 ### Part 3 Screenshots
-![](ggplot1.PNG)
+![](/images/ggplot1.PNG)
 
 ![](ggplot2.PNG)
 
