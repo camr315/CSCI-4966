@@ -3,14 +3,14 @@
 ### Part 3 Screenshots
 ![](/images/ggplot1.PNG)
 
-![](ggplot2.PNG)
+![](/images/ggplot2.PNG)
 
-![](ggplot3.PNG)
+![](/images/ggplot3.PNG)
 
 ### Part 4 Screenshots
-![](ggplot4.PNG)
+![](/images/ggplot4.PNG)
 
-![](ggplot5.PNG)
+![](/images/ggplot5.PNG)
 
 ### Obervatory Link
 https://rcos.io/projects/meowskers/beirrun/profile
