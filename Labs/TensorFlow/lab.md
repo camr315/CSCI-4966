@@ -12,16 +12,16 @@
 
 ## Check 3
 ### Shirt 1
-![](/shirt1.jpg)
-![](/shirt1-2.jpg)
+![](/Labs/TensorFlow/shirt1.jpg)
+![](/Labs/TensorFlow/shirt1-2.jpg)
 
 ### Shirt 2
-![](/shirt2.jpg)
-![](/shirt2-2.jpg)
+![](/Labs/TensorFlow/shirt2.jpg)
+![](/Labs/TensorFlow/shirt2-2.jpg)
 
 ### Shirt 3
-![](/shirt3.jpg)
-![](/shirt3-2.jpg)
+![](/Labs/TensorFlow/shirt3.jpg)
+![](/Labs/TensorFlow/shirt3-2.jpg)
 
 ### Results
 ![](/images/tensor4.PNG)
