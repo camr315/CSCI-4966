@@ -3,9 +3,7 @@
 Loaded words_dat.txt containing 5757 five-letter English words.
 Two words are connected if they differ in one letter.
 Graph has 5757 nodes with 14135 edges
-
 853 connected components
-
 Shortest path between chaos and order is
 chaos, chats, coats, colts, colas, codas, codes, coder, cider, eider, elder, older, order
 Shortest path between nodes and graph is
